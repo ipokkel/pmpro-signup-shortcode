@@ -7,6 +7,7 @@ Version: 0.3
 Author: Paid Memberships Pro
 Author URI: https://www.paidmembershipspro.com/
 Text Domain: pmpro-signup-shortcode
+Domain Path: /languages
 */
 
 /**
