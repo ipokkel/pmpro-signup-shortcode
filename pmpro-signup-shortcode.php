@@ -6,7 +6,7 @@ Description: Shortcode for a simplified Membership Signup Form with options for 
 Version: 0.3
 Author: Paid Memberships Pro
 Author URI: https://www.paidmembershipspro.com/
-Text Domain: pmprosus
+Text Domain: pmpro-signup-shortcode
 */
 
 /**
